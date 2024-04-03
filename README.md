@@ -8,7 +8,7 @@
 </head>
 <body>
     <header> 
-        <img src="aula31-figura00.png" alt="logo da alura start">
+        <img src="aula31-figura00.jpeg" alt="logo da alura start">
         <ul>
             <li>Edithe</li>
             <li>Gabriel</li>
